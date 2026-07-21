@@ -1,16 +1,29 @@
-## Hi there 👋
+## Data Analyst | Power BI Developer | Reporting Analyst
 
-<!--
-**amandeepkaur-analytics-web/amandeepkaur-analytics-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data and technology professional interested in transforming data into meaningful business insights.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Power BI
+- DAX
+- SQL
+- Excel
+- Python
+- Data Visualization
+- Reporting & Dashboard Development
+- Customer Support
+
+## Projects
+
+📊 Sales Performance Dashboard  
+📈 Customer Support Analytics Dashboard  
+📋 Data Cleaning and Analysis Projects
+
+## Certifications
+
+- Microsoft Power BI PL-300 (In Progress)
+
+## Contact
+
+LinkedIn: Add your LinkedIn URL
+Email: Add your professional email
