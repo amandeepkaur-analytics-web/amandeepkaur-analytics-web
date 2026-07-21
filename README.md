@@ -26,4 +26,5 @@ I am a data and technology professional interested in transforming data into mea
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/ammykaur
+
 Email: amandeepkaurgdp@gmail.com
