@@ -21,7 +21,7 @@ I am a data and technology professional interested in transforming data into mea
 
 ## Certifications
 
-- Microsoft Power BI PL-300 (In Progress)
+- Microsoft Power BI PL-300
 
 ## Contact
 
